@@ -1,1 +1,1 @@
-const buttonLabel = "Sign In";
+console.log("Project Atlas is running");
